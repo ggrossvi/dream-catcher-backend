@@ -1,0 +1,7 @@
+note.txt
+.env
+node_modules
+npm-debug.log/
+test-results/
+coverage/
+.vscode/
